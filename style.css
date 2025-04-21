@@ -67,5 +67,6 @@ button{
     color: #ffffff;
 }
 button:hover{
-    color: ;
+    color: black;
+    background-color: #ffffff;
 }
